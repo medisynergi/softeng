@@ -1,0 +1,38 @@
+!999;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!4501;d
+[\012  grasp [\012   legendy 182.0\012   legendx -894.25\012   version 1\012   winflags 3\012   eheight 744\012   ewidth 1301\012   height 744\012   width 1301\012   wbp 3\012   initlayout 0\012   yoffs -5.6843418860808015E-14\012   xoffs -1149.625\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 0\012   visflags 1057947903\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Asset"\012    fromclassfiledate 0\012    fromclassfilename "%\011Asset.class"\012    fromfilename "%\011Asset.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -1308.5\012     y -18.75\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "AssetManager"\012    fromclassfiledate 0\012    fromclassfilename "%\011AssetManager.class"\012    fromfilename "%\011AssetManager.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -1298.5\012     y -81.75\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "EstimateFundsForWeek"\012    fromclassfiledate 0\012    fromclassfilename "%\011EstimateFundsForWeek.class"\012    fromfilename "%\011EstimateFundsForWeek.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x -986.0\012     y 41.99999999999983\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "EstimatedFundsReport"\012    fromclassfiledate 0\012    fromclassfilename "%\011EstimatedFundsReport.class"\012    fromfilename "%\011EstimatedFundsReport.java"\012   ]\012   id 3\012   graphics [\012    center [\012     x -980.5\012     y -16.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Investment"\012    fromclassfiledate 0\012    fromclassfilename "%\011Investment.class"\012    fromfilename "%\011Investment.java"\012   ]\012   id 4\012   graphics [\012    center [\012     x -1165.75\012     y 58.49999999999986\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "InvestmentsReport"\012    fromclassfiledate 0\012    fromclassfilename "%\011InvestmentsReport.class"\012    fromfilename "%\011InvestmentsReport.java"\012   ]\012   id 5\012   graphics [\012    center [\012     x -1145.0\012     y 119.99999999999989\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "MSGApplication"\012    fromclassfiledate 0\012    fromclassfilename "%\011MSGApplication.class"\012    fromfilename "%\011MSGApplication.java"\012   ]\012   id 6\012   graphics [\012    center [\012     x -1429.5\012     y 176.25\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Mortgage"\012    fromclassfiledate 0\012    fromclassfilename "%\011Mortgage.class"\012    fromfilename "%\011Mortgage.java"\012   ]\012   id 7\012   graphics [\012    center [\012     x -1447.0\012     y 115.49999999999994\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "MortgagesReport"\012    fromclassfiledate 0\012    fromclassfilename "%\011MortgagesReport.class"\012    fromfilename "%\011MortgagesReport.java"\012   ]\012   id 8\012   graphics [\012    center [\012     x -989.75\012     y -109.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "UserInterface"\012    fromclassfiledate 0\012    fromclassfilename "%\011UserInterface.class"\012    fromfilename "%\011UserInterface.java"\012   ]\012   id 9\012   graphics [\012    center [\012     x -1312.75\012     y 71.99999999999983\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!1;k
+1!23;a
+a%\011test1_doc	b	c1	d0!244;g
+%\011Investment.java
+%\011Asset.java
+%\011AssetManager.java
+%\011EstimateFundsForWeek.java
+%\011EstimatedFundsReport.java
+%\011MSGApplication.java
+%\011UserInterface.java
+%\011InvestmentsReport.java
+%\011MortgagesReport.java
+%\011Mortgage.java
+!244;f
+%\011Investment.java
+%\011Asset.java
+%\011AssetManager.java
+%\011EstimateFundsForWeek.java
+%\011EstimatedFundsReport.java
+%\011MSGApplication.java
+%\011UserInterface.java
+%\011InvestmentsReport.java
+%\011MortgagesReport.java
+%\011Mortgage.java
